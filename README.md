@@ -20,12 +20,16 @@ The manuscript has been pre-printed in bioRxiv:
 > Yi, Chenxin, Jinyu Cheng, Wanquan Liu, Junwei Liu, and Yixue Li. "Benchmarking deep learning methods for biologically conserved single-cell integration." bioRxiv (2024).
 > https://doi.org/10.1101/2024.12.09.627450
 
+---
+
 ## Installation
 
 To use scIB-E, ensure you have Python 3.9 or higher. Install the required dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
+
+---
 
 ## Usage
 
@@ -69,5 +73,7 @@ The following table summarizes the constraint settings for different methods:
 - **Bone Marrow Mononuclear Cells (BMMC)**: Gene Expression Omnibus (GEO), accession number GSE194122
 - **Human Lung Cell Atlas (HLCA) core**: [Download](https://cellxgene.cziscience.com/collections/6f6d381a-77014781-935c-db10d30de293)
 - **Human Fetal Lung Cell Atlas**: [Download](https://fetallung.cellgeni.sanger.ac.uk/scRNA.html)
+
+---
 
 This repository will be continuously updated during the submission process.
